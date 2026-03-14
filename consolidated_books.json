@@ -1,0 +1,2133 @@
+{
+    "books": [
+        {
+            "book_title": "A Court of Thorns and Roses Series \u2013 Sarah J. Maas",
+            "sexandnudity": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "violenceandgore": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "profanity": {
+                "score": 5,
+                "subcategories_detected": [
+                    "Strong Profanity"
+                ],
+                "evidence": "Frequent use of 'f-words' and other strong language, particularly in high-stress combat or romantic confrontations."
+            }
+        },
+        {
+            "book_title": "A Series of Unfortunate Events by Lemony Snicket",
+            "sexandnudity": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "violenceandgore": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "profanity": {
+                "score": 1,
+                "subcategories_detected": [
+                    "Mild Insults",
+                    "Sophisticated Vocabulary"
+                ],
+                "evidence": "There is no traditional profanity. The 'language' concerns usually revolve around the treatment of the children by adults, who call them 'brats' or 'imbeciles.' The books actually serve as a vocabulary builder, often defining complex words like 'adversity' or 'd\u00e9nouement' within the narrative."
+            }
+        },
+        {
+            "book_title": "A Wrinkle in Time \u2013 Madeleine L\u2019Engle",
+            "sexandnudity": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "violenceandgore": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "profanity": {
+                "score": 1,
+                "subcategories_detected": [
+                    "None"
+                ],
+                "evidence": "The language is clean and often academic or poetic, reflecting the scientific and spiritual background of the characters."
+            }
+        },
+        {
+            "book_title": "Alexander and the Terrible, Horrible, No Good, Very Bad Day",
+            "sexandnudity": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "violenceandgore": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "profanity": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "It has been a terrible, horrible, no good, very bad day."
+            }
+        },
+        {
+            "book_title": "All the Bright Places by Jennifer Niven",
+            "sexandnudity": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "violenceandgore": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "profanity": {
+                "score": 5,
+                "subcategories_detected": [
+                    "Strong Profanity",
+                    "Social Slurs"
+                ],
+                "evidence": "The book includes 'f-words,' 'sh-words,' and other profanity common in high school settings. Much of the language is used to highlight Finch\u2019s alienation from his peers and his internal frustration with his 'dark' moods."
+            }
+        },
+        {
+            "book_title": "Amulet series \u2013 Kazu Kibuishi",
+            "sexandnudity": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "violenceandgore": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "profanity": {
+                "score": 1,
+                "subcategories_detected": [
+                    "Mild Insults"
+                ],
+                "evidence": "The language is extremely clean, suitable for a general audience. Only very mild insults typical of adventure stories are present."
+            }
+        },
+        {
+            "book_title": "An Ember in the Ashes series by Sabaa Tahir",
+            "sexandnudity": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "violenceandgore": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "profanity": {
+                "score": 4,
+                "subcategories_detected": [
+                    "Moderate Profanity",
+                    "Social Slurs"
+                ],
+                "evidence": "Profanity like 'shit,' 'hell,' and 'damn' is used. The more impactful language involves the slurs used within the world's caste system, where 'Scholar' is used as a derogatory term and the social divide between Martials and Scholars is reinforced through dehumanizing rhetoric."
+            }
+        },
+        {
+            "book_title": "Anne of Green Gables \u2013 L.M. Montgomery",
+            "sexandnudity": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "violenceandgore": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "profanity": {
+                "score": 1,
+                "subcategories_detected": [
+                    "Period-Typical Scolding"
+                ],
+                "evidence": "Extremely clean. Any 'harsh' language is limited to Marilla's stern scolding or the colorful, dramatic exclamations of Anne (e.g., 'the depths of despair')."
+            }
+        },
+        {
+            "book_title": "Artemis Fowl series \u2013 Eoin Colfer",
+            "sexandnudity": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "violenceandgore": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "profanity": {
+                "score": 2,
+                "subcategories_detected": [
+                    "Mild Insults",
+                    "Fictional Expletives"
+                ],
+                "evidence": "Traditional profanity is absent. The characters use fictional fairy 'slang' or mild insults like 'dolt' or 'idiot,' reflecting Artemis's intellectual arrogance."
+            }
+        },
+        {
+            "book_title": "Because of Winn-Dixie by Kate DiCamillo",
+            "sexandnudity": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "violenceandgore": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "profanity": {
+                "score": 2,
+                "subcategories_detected": [
+                    "Mild Profanity",
+                    "Theological Exclamations"
+                ],
+                "evidence": "The book contains a few instances of mild profanity such as 'hell' and 'damn' (used in the context of an older character\u2019s storytelling). Some readers may note the use of 'Lord' as an exclamation, similar to 'Bridge to Terabithia,' though it is less frequent here."
+            }
+        },
+        {
+            "book_title": "Big Nate series \u2013 Lincoln Peirce",
+            "sexandnudity": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "violenceandgore": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "profanity": {
+                "score": 1,
+                "subcategories_detected": [
+                    "Mild Insults"
+                ],
+                "evidence": "Language is very clean. It includes words like 'stupid,' 'jerk,' 'twerp,' and 'loser.' The humor is centered on Nate\u2019s sarcastic wit rather than foul language."
+            }
+        },
+        {
+            "book_title": "Bridge to Terabithia by Katherine Paterson",
+            "sexandnudity": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "violenceandgore": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "profanity": {
+                "score": 4,
+                "subcategories_detected": [
+                    "Mild Profanity",
+                    "Taking the Lord's name in vain",
+                    "Regional Slang"
+                ],
+                "evidence": "The book contains more profanity than many modern middle-grade novels. Words like 'hell' and 'damn' are used by both adults and children. Additionally, the phrase 'Oh Lord' or 'Lord' used as an exclamation appears frequently, which has led to challenges in some religious school districts."
+            }
+        },
+        {
+            "book_title": "Captain Underpants series by Dav Pilkey",
+            "sexandnudity": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "violenceandgore": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "profanity": {
+                "score": 4,
+                "subcategories_detected": [
+                    "Potty Humor",
+                    "Name-calling",
+                    "Mild Insults"
+                ],
+                "evidence": "Heavy reliance on 'toilet talk' including words like 'poop,' 'fart,' 'pee-pee,' and 'boogers.' Frequent name-calling involves 'stupid,' 'jerk,' 'dumb,' and the use of the word 'heck' or 'darn' on rare occasions."
+            }
+        },
+        {
+            "book_title": "Charlie and the Chocolate Factory \u2013 Roald Dahl",
+            "sexandnudity": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "violenceandgore": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "profanity": {
+                "score": 1,
+                "subcategories_detected": [
+                    "Mild Social Insults"
+                ],
+                "evidence": "Very clean. Language is limited to mild insults like 'nasty,' 'beastly,' or 'brat,' used by Wonka or the parents."
+            }
+        },
+        {
+            "book_title": "Charlotte's Web",
+            "sexandnudity": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "violenceandgore": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "profanity": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "The language is wholesome and gentle, revolving around descriptive words and concepts like 'Some Pig,' 'Terrific,' and 'Humble,' with no profanity used by any character."
+            }
+        },
+        {
+            "book_title": "Charlotte's Web\u00a0by E.B. White",
+            "sexandnudity": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "violenceandgore": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "profanity": {
+                "score": 1,
+                "subcategories_detected": [
+                    "Mild Insults",
+                    "Outdated Terms"
+                ],
+                "evidence": "There is no modern profanity. The language reflects its 1952 publication, using mild insults like 'runt,' 'swill,' and 'idiot.' Characters like Templeton the rat are described as having 'no morals, no conscience,' but the vocabulary remains purely literary and appropriate for school-age children."
+            }
+        },
+        {
+            "book_title": "City of Bones (The Mortal Instruments) \u2013 Cassandra Clare",
+            "sexandnudity": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "violenceandgore": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "profanity": {
+                "score": 3,
+                "subcategories_detected": [
+                    "Standard YA Profanity",
+                    "Sarcasm"
+                ],
+                "evidence": "The dialogue is sharp and sarcastic. It contains regular use of words like 'hell,' 'damn,' 'ass,' and 'bastard.' The tone is representative of older teenagers in an urban environment."
+            }
+        },
+        {
+            "book_title": "Coraline \u2013 Neil Gaiman",
+            "sexandnudity": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "violenceandgore": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "profanity": {
+                "score": 1,
+                "subcategories_detected": [
+                    "None"
+                ],
+                "evidence": "The language is clean. Gaiman uses sophisticated vocabulary to build tension rather than relying on profanity."
+            }
+        },
+        {
+            "book_title": "Dear Martin by Nic Stone",
+            "sexandnudity": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "violenceandgore": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "profanity": {
+                "score": 8,
+                "subcategories_detected": [
+                    "Strong Profanity",
+                    "Racial Slurs"
+                ],
+                "evidence": "The book contains frequent use of strong language, including the 'f-word,' 's-word,' and 'n-word.' Racial slurs are used both by antagonistic white characters to dehumanize Justyce and his friends, and by Black characters in a reclaimed, colloquial context. The profanity is essential to the book's gritty realism and portrayal of racial hostility."
+            }
+        },
+        {
+            "book_title": "Diary of a Wimpy Kid series \u2013 Jeff Kinney",
+            "sexandnudity": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "violenceandgore": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "profanity": {
+                "score": 1,
+                "subcategories_detected": [
+                    "Mild Insults"
+                ],
+                "evidence": "The language is very clean. It includes common middle-school insults like 'jerk,' 'stupid,' 'moron,' and 'ploppy.' It is suitable for elementary and middle school audiences."
+            }
+        },
+        {
+            "book_title": "Divergent",
+            "sexandnudity": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "violenceandgore": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "profanity": {
+                "score": 3,
+                "subcategories_detected": [
+                    "Moderate use of common profanities",
+                    "Mild exclamations/curses"
+                ],
+                "evidence": "The Dauntless faction, in particular, uses common, moderate profanity (including words like 'sh*t' and 'a*s') consistent with the aggressive and rebellious nature of the characters and their environment."
+            }
+        },
+        {
+            "book_title": "Dog Man series by Dav Pilkey",
+            "sexandnudity": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "violenceandgore": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "profanity": {
+                "score": 3,
+                "subcategories_detected": [
+                    "Potty Humor",
+                    "Name-calling",
+                    "Mild Insults"
+                ],
+                "evidence": "Heavy reliance on 'crude humor' including terms like 'poo-poo head,' 'butt-sniffer,' and 'pee-pee.' Frequent name-calling includes 'dingdong,' 'jerk,' 'sucker,' 'idiot,' and 'loser,' along with the use of the word 'sucks.'"
+            }
+        },
+        {
+            "book_title": "Dork Diaries series \u2013 Rachel Ren\u00e9e Russell",
+            "sexandnudity": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "violenceandgore": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "profanity": {
+                "score": 1,
+                "subcategories_detected": [
+                    "Mild Insults"
+                ],
+                "evidence": "Language is very clean. It uses terms like 'loser,' 'dork,' 'brat,' and 'mean girl.' It is suitable for young readers."
+            }
+        },
+        {
+            "book_title": "Drama \u2013 Raina Telgemeier",
+            "sexandnudity": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "violenceandgore": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "profanity": {
+                "score": 1,
+                "subcategories_detected": [
+                    "Mild Insults"
+                ],
+                "evidence": "The language is very clean, utilizing common middle school terms like 'brat' or 'jerk.' The 'drama' is emotional rather than verbal."
+            }
+        },
+        {
+            "book_title": "Eleanor & Park by Rainbow Rowell",
+            "sexandnudity": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "violenceandgore": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "profanity": {
+                "score": 9,
+                "subcategories_detected": [
+                    "Strong Profanity",
+                    "Racial Slurs",
+                    "Sexual Slurs"
+                ],
+                "evidence": "The profanity is frequent and severe. It includes the 'f-word,' 's-word,' and several racial slurs directed at Park (who is half-Korean). Most notably, the book includes derogatory, hyper-sexualized insults written on Eleanor's belongings, intended to shame and degrade her. This high score reflects the 'real-world' grit Rowell uses to depict a hostile environment."
+            }
+        },
+        {
+            "book_title": "Eragon (Inheritance Cycle) \u2013 Christopher Paolini",
+            "sexandnudity": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "violenceandgore": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "profanity": {
+                "score": 1,
+                "subcategories_detected": [
+                    "Mild Insults"
+                ],
+                "evidence": "The language is very clean. Any 'strong' language is usually substituted with fictional terms from the 'Ancient Language' or mild descriptors suitable for a young adult audience."
+            }
+        },
+        {
+            "book_title": "Esperanza Rising by Pam Mu\u00f1oz Ryan",
+            "sexandnudity": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "violenceandgore": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "profanity": {
+                "score": 1,
+                "subcategories_detected": [
+                    "Mild Insults",
+                    "Classist Language"
+                ],
+                "evidence": "There is no modern profanity. The 'language' concerns involve classist insults; Esperanza initially looks down on others, calling them 'peasants,' while her uncles use manipulative and threatening language. Some Spanish terms are used to denote social hierarchy (e.g., 'patr\u00f3n')."
+            }
+        },
+        {
+            "book_title": "Fantastic Mr. Fox \u2013 Roald Dahl",
+            "sexandnudity": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "violenceandgore": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "profanity": {
+                "score": 1,
+                "subcategories_detected": [
+                    "Mild Insults"
+                ],
+                "evidence": "The language is clean. The farmers are described with derogatory adjectives like 'revolting' and 'beastly,' but there is no traditional profanity."
+            }
+        },
+        {
+            "book_title": "Firekeeper's Daughter\u00a0by Angeline Boulley",
+            "sexandnudity": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "violenceandgore": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "profanity": {
+                "score": 5,
+                "subcategories_detected": [
+                    "Strong Profanity",
+                    "Racial Slurs"
+                ],
+                "evidence": "The book contains moderate to strong profanity (f-words, s-words) used realistically by teenagers and federal agents. There is also the use of derogatory terms and 'microaggressions' directed at Daunis due to her biracial identity and her status as an unenrolled tribal member."
+            }
+        },
+        {
+            "book_title": "Fish in a Tree by Lynda Mullaly Hunt",
+            "sexandnudity": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "violenceandgore": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "profanity": {
+                "score": 1,
+                "subcategories_detected": [
+                    "Mild Insults",
+                    "Name-calling"
+                ],
+                "evidence": "No traditional profanity is used. The language reflects the harsh social environment of middle school, including insults like 'dumb,' 'loser,' and 'freak.' These are used to illustrate the verbal abuse the protagonist, Ally, faces from her peers."
+            }
+        },
+        {
+            "book_title": "Ghosts \u2013 Raina Telgemeier",
+            "sexandnudity": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "violenceandgore": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "profanity": {
+                "score": 1,
+                "subcategories_detected": [
+                    "Mild Insults"
+                ],
+                "evidence": "The language is extremely clean and suitable for all ages."
+            }
+        },
+        {
+            "book_title": "Guess How Much I Love You",
+            "sexandnudity": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "violenceandgore": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "profanity": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "The language is simple, sweet, and focused on measurements of love and distance. There is no use of profanity, obscenities, or coarse language."
+            }
+        },
+        {
+            "book_title": "Harry Potter and the Sorcerers Stone",
+            "sexandnudity": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "violenceandgore": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "profanity": {
+                "score": 1,
+                "subcategories_detected": [
+                    "Mild/infrequent exclamations"
+                ],
+                "evidence": "One instance of 'damn' and a 'good Lord.'"
+            }
+        },
+        {
+            "book_title": "Harry Potter\u00a0series by J.K. Rowling",
+            "sexandnudity": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "violenceandgore": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "profanity": {
+                "score": 3,
+                "subcategories_detected": [
+                    "Mild Profanity",
+                    "Fantasy Slurs",
+                    "Insults"
+                ],
+                "evidence": "The series uses mild British profanity (e.g., 'bloody,' 'git,' 'hell'). More significantly, it introduces 'fantasy slurs' like 'Mudblood' to explore themes of prejudice and systemic racism. Characters like Draco Malfoy use these terms frequently to belittle others based on their heritage."
+            }
+        },
+        {
+            "book_title": "Holes by Louis Sachar",
+            "sexandnudity": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "violenceandgore": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "profanity": {
+                "score": 2,
+                "subcategories_detected": [
+                    "Mild Profanity",
+                    "Social Slurs"
+                ],
+                "evidence": "The language reflects the harsh environment of a detention camp. Words like 'damn' and 'hell' appear occasionally. Characters use derogatory labels for one another, and the nicknames given to the boys (Zero, Armpit, X-Ray) are themselves a form of dehumanization that is central to the book's critique of the justice system."
+            }
+        },
+        {
+            "book_title": "Ivy + Bean\u00a0series by Annie Barrows",
+            "sexandnudity": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "violenceandgore": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "profanity": {
+                "score": 2,
+                "subcategories_detected": [
+                    "Mild Insults",
+                    "Disrespectful Language"
+                ],
+                "evidence": "The series avoids traditional profanity but includes words some parents find abrasive, such as 'stupid,' 'jerk,' 'shut up,' and 'I hate you.' The humor often stems from their shared disdain for Bean's older sister, Nancy."
+            }
+        },
+        {
+            "book_title": "James and the Giant Peach \u2013 Roald Dahl",
+            "sexandnudity": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "violenceandgore": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "profanity": {
+                "score": 1,
+                "subcategories_detected": [
+                    "Mild Insults"
+                ],
+                "evidence": "Language is clean, though it includes a variety of creative, mean-spirited insults used by the aunts, such as 'filthy nuisance,' 'miserable creature,' and 'beastly boy.'"
+            }
+        },
+        {
+            "book_title": "Junie B. Jones\u00a0series by Barbara Park",
+            "sexandnudity": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "violenceandgore": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "profanity": {
+                "score": 3,
+                "subcategories_detected": [
+                    "Mild Insults",
+                    "Potty Humor",
+                    "Poor Grammar"
+                ],
+                "evidence": "While there are no traditional swear words, the books are filled with what parents call 'playground profanity.' Junie B. frequently uses words like 'stupid,' 'dumb,' 'jerk,' 'shut up,' and 'butt.' She also uses non-standard grammar like 'runned' and 'bestest,' which some educators categorize as linguistic 'misbehavior.'"
+            }
+        },
+        {
+            "book_title": "Keeper of the Lost Cities by Shannon Messenger",
+            "sexandnudity": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "violenceandgore": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "profanity": {
+                "score": 1,
+                "subcategories_detected": [
+                    "Mild Insults",
+                    "In-Universe Slang"
+                ],
+                "evidence": "There is no traditional profanity. The series uses 'Elvin' exclamations like 'No way!' or 'Holy gulon!' (a smelly creature). Mild insults like 'jerk' or 'arrogant' are used, mostly in the context of teenage bickering or political rivalries. The language remains very safe for the 9\u201314 age demographic."
+            }
+        },
+        {
+            "book_title": "Legend trilogy \u2013 Marie Lu",
+            "sexandnudity": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "violenceandgore": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "profanity": {
+                "score": 2,
+                "subcategories_detected": [
+                    "Mild Expletives"
+                ],
+                "evidence": "The language includes common YA profanity such as 'hell,' 'damn,' and 'bastard,' used naturally within the context of high-stakes military and street life."
+            }
+        },
+        {
+            "book_title": "Little Women \u2013 Louisa May Alcott",
+            "sexandnudity": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "violenceandgore": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "profanity": {
+                "score": 1,
+                "subcategories_detected": [
+                    "Archaic Terms"
+                ],
+                "evidence": "The language is highly refined and Victorian. The only 'strong' language includes mild exclamations like 'Christopher Columbus!' or 'Mercy on us!'"
+            }
+        },
+        {
+            "book_title": "Long Way Down by Jason Reynolds",
+            "sexandnudity": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "violenceandgore": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "profanity": {
+                "score": 5,
+                "subcategories_detected": [
+                    "Strong Profanity",
+                    "Slang"
+                ],
+                "evidence": "The language reflects the raw, high-stakes environment. It includes uses of 'shit,' 'hell,' and 'damn.' The 'f-word' is also present. The profanity is used purposefully to convey the urgency and grit of Will's internal and external reality."
+            }
+        },
+        {
+            "book_title": "Looking for Alaska by John Green",
+            "sexandnudity": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "violenceandgore": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "profanity": {
+                "score": 8,
+                "subcategories_detected": [
+                    "Strong Profanity",
+                    "Teenage Slang"
+                ],
+                "evidence": "Profanity is extremely frequent and used for authenticity. The 'f-word' and 'sh-word' are common throughout the dialogue. The language reflects the irreverent and often provocative way the characters communicate in their attempt to appear adult and sophisticated."
+            }
+        },
+        {
+            "book_title": "Madeline",
+            "sexandnudity": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "violenceandgore": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "profanity": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "The entire story is told in rhyming verse using wholesome and gentle language. There is no use of profanity, obscenities, or coarse language."
+            }
+        },
+        {
+            "book_title": "Magic Tree House\u00a0series by Mary Pope Osborne",
+            "sexandnudity": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "violenceandgore": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "profanity": {
+                "score": 1,
+                "subcategories_detected": [
+                    "Mild Name-calling"
+                ],
+                "evidence": "The series is virtually free of profanity and even 'potty humor.' The most 'offensive' language consists of very mild sibling bickering or exclamations like 'Oh, brother!' or Jack muttering that he 'could kill' Annie when he is frustrated by her impulsiveness (clearly used as a figure of speech)."
+            }
+        },
+        {
+            "book_title": "Matilda \u2013 Roald Dahl",
+            "sexandnudity": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "violenceandgore": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "profanity": {
+                "score": 2,
+                "subcategories_detected": [
+                    "Creative Insults"
+                ],
+                "evidence": "There is no traditional profanity. However, the book is filled with high-level, creative insults used by the antagonists, such as 'poisonous little viper,' 'stagnant cesspool,' and 'disgusting little blister.'"
+            }
+        },
+        {
+            "book_title": "Miss Peregrine\u2019s Home for Peculiar Children \u2013 Ransom Riggs",
+            "sexandnudity": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "violenceandgore": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "profanity": {
+                "score": 2,
+                "subcategories_detected": [
+                    "Mild Expletives"
+                ],
+                "evidence": "Includes some mild language typical of YA literature, such as 'hell' and 'damn,' used naturally in moments of fear or frustration."
+            }
+        },
+        {
+            "book_title": "Monday's Not Coming by Tiffany D. Jackson",
+            "sexandnudity": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "violenceandgore": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "profanity": {
+                "score": 6,
+                "subcategories_detected": [
+                    "Strong Profanity",
+                    "Teenage Slang"
+                ],
+                "evidence": "The book uses realistic urban dialogue, including frequent use of 'sh-words,' 'f-words,' and 'hell.' The language reflects the raw frustration of a teenager navigating a world that refuses to listen to her."
+            }
+        },
+        {
+            "book_title": "Out of My Mind by Sharon M. Draper",
+            "sexandnudity": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "violenceandgore": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "profanity": {
+                "score": 1,
+                "subcategories_detected": [
+                    "Ableist Language",
+                    "Mild Insults"
+                ],
+                "evidence": "No traditional profanity is used. The 'language' concerns involve the use of ableist slurs and derogatory terms like 'retard' or 'stupid' by classmates and even some biased educators. These terms are used to highlight the systemic discrimination Melody faces."
+            }
+        },
+        {
+            "book_title": "Percy  Jackson and the Olympians series by Rick Riordan",
+            "sexandnudity": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "violenceandgore": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "profanity": {
+                "score": 2,
+                "subcategories_detected": [
+                    "Mild Insults",
+                    "Euphemisms",
+                    "Slang"
+                ],
+                "evidence": "Modern profanity is absent. Riordan uses 'mythological' substitutes for swearing, such as 'Holy Hera,' 'What the Pluto,' or 'Schist' (a type of rock used as a pun). Characters may use mild insults like 'jerk,' 'loser,' or 'stupid,' but the language is designed to remain within middle-grade boundaries (ages 9-12)."
+            }
+        },
+        {
+            "book_title": "Percy Jackson\u2019s Greek Gods \u2013 Rick Riordan",
+            "sexandnudity": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "violenceandgore": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "profanity": {
+                "score": 1,
+                "subcategories_detected": [
+                    "Modern Slang"
+                ],
+                "evidence": "Extremely clean. The 'profanity' is limited to mild insults like 'jerk,' 'stupid,' or 'shut up,' reflecting a typical middle-schooler's vocabulary."
+            }
+        },
+        {
+            "book_title": "Press Start!\u00a0series by Thomas Flintham",
+            "sexandnudity": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "violenceandgore": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "profanity": {
+                "score": 1,
+                "subcategories_detected": [
+                    "Mild Name-calling"
+                ],
+                "evidence": "Language is very clean. The villain, King Viking, is often called 'mean' or 'bad,' and terms like 'oh no!' or 'gulp' are common. There is no use of 'potty humor' or traditional insults."
+            }
+        },
+        {
+            "book_title": "Scythe trilogy \u2013 Neal Shusterman",
+            "sexandnudity": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "violenceandgore": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "profanity": {
+                "score": 2,
+                "subcategories_detected": [
+                    "Mild Expletives"
+                ],
+                "evidence": "The language is generally sophisticated and clean, though it contains some common YA-level profanity (e.g., 'hell,' 'damn') used during moments of high stress or conflict."
+            }
+        },
+        {
+            "book_title": "Shadow and Bone \u2013 Leigh Bardugo",
+            "sexandnudity": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "violenceandgore": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "profanity": {
+                "score": 2,
+                "subcategories_detected": [
+                    "Mild Expletives"
+                ],
+                "evidence": "Language is generally clean but includes standard YA profanity like 'hell' and 'damn,' used mostly in the context of military stress or personal frustration."
+            }
+        },
+        {
+            "book_title": "Shatter Me series by Tahereh Mafi",
+            "sexandnudity": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "violenceandgore": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "profanity": {
+                "score": 5,
+                "subcategories_detected": [
+                    "Strong Profanity",
+                    "Emotional Outbursts"
+                ],
+                "evidence": "The series contains frequent use of strong language, including 'f-words' and other adult profanities, particularly in the later books and novellas. The language reflects the high-stress, life-or-death environment of a revolution and the raw emotional state of the protagonists."
+            }
+        },
+        {
+            "book_title": "Sisters \u2013 Raina Telgemeier",
+            "sexandnudity": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "violenceandgore": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "profanity": {
+                "score": 1,
+                "subcategories_detected": [
+                    "Mild Insults"
+                ],
+                "evidence": "Clean and age-appropriate. The conflict is expressed through shouting matches and realistic sibling bickering rather than foul language."
+            }
+        },
+        {
+            "book_title": "Six of Crows\u00a0duology by Leigh Bardugo",
+            "sexandnudity": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "violenceandgore": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "profanity": {
+                "score": 4,
+                "subcategories_detected": [
+                    "Moderate Profanity",
+                    "In-Universe Slurs"
+                ],
+                "evidence": "The language is consistent with an urban 'underworld' setting. It includes frequent use of 'damn,' 'hell,' and 'shit,' with the occasional 'f-word.' Much like the Caste system in 'The Selection,' there are also derogatory in-universe terms for different nationalities and magic-users (Grisha) that function as slurs."
+            }
+        },
+        {
+            "book_title": "Smile \u2013 Raina Telgemeier",
+            "sexandnudity": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "violenceandgore": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "profanity": {
+                "score": 1,
+                "subcategories_detected": [
+                    "Mild Social Insults"
+                ],
+                "evidence": "The language is very clean, mirroring the authentic speech of a middle schooler. The 'violence' of the language comes from the social bullying Raina experiences from her 'friends.'"
+            }
+        },
+        {
+            "book_title": "Stargirl by Jerry Spinelli",
+            "sexandnudity": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "violenceandgore": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "profanity": {
+                "score": 1,
+                "subcategories_detected": [
+                    "Mild Insults"
+                ],
+                "evidence": "Clean language. Occasional use of 'stupid' or 'loser' as characters react to Stargirl's eccentricities."
+            }
+        },
+        {
+            "book_title": "Stuart Little\u00a0by E.B. White",
+            "sexandnudity": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "violenceandgore": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "profanity": {
+                "score": 1,
+                "subcategories_detected": [
+                    "Mild Insults"
+                ],
+                "evidence": "The book contains no traditional profanity. It uses mild, period-appropriate language and occasional insults like 'dumb' or 'idiot' used by minor characters. The overall vocabulary is sophisticated but clean, reflecting the author's background as a writer for The New Yorker."
+            }
+        },
+        {
+            "book_title": "The Baby-Sitters Club graphic novels by Raina Telgemeier & others",
+            "sexandnudity": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "violenceandgore": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "profanity": {
+                "score": 1,
+                "subcategories_detected": [
+                    "Mild Insults",
+                    "Social Conflict"
+                ],
+                "evidence": "No traditional profanity is used. The 'strongest' language involves common middle-school insults like 'brat,' 'stupid,' or 'mean.' Conflict is expressed through dialogue about social standing and the frustration of dealing with difficult parents or peers."
+            }
+        },
+        {
+            "book_title": "The Battle of the Labyrinth \u2013 Rick Riordan",
+            "sexandnudity": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "violenceandgore": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "profanity": {
+                "score": 2,
+                "subcategories_detected": [
+                    "Mild Insults"
+                ],
+                "evidence": "Consistent with the series' tone. Includes 'jerk,' 'moron,' and 'shut up.' The dialogue remains appropriate for the 10\u201314 age range."
+            }
+        },
+        {
+            "book_title": "The BFG \u2013 Roald Dahl",
+            "sexandnudity": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "violenceandgore": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "profanity": {
+                "score": 1,
+                "subcategories_detected": [
+                    "Nonsense Insults"
+                ],
+                "evidence": "There is no traditional profanity. The BFG uses 'Gobblefunk' terms that might sound silly or slightly rude to children (like 'whizzpopper' for flatulence), but they are intended for comedic effect and are entirely clean."
+            }
+        },
+        {
+            "book_title": "The Book Thief by Markus Zusak",
+            "sexandnudity": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "violenceandgore": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "profanity": {
+                "score": 4,
+                "subcategories_detected": [
+                    "German Slurs",
+                    "Moderate Profanity"
+                ],
+                "evidence": "The book uses frequent German insults, most notably 'Saukert' and 'Arschloch.' While these are in German, their meanings (pig-match/asshole) are clear in context and reflect the harsh, gritty reality of the time."
+            }
+        },
+        {
+            "book_title": "The Chronicles of Narnia by C.S. Lewis",
+            "sexandnudity": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "violenceandgore": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "profanity": {
+                "score": 2,
+                "subcategories_detected": [
+                    "Mild Insults",
+                    "Cultural Stereotypes",
+                    "Outdated Language"
+                ],
+                "evidence": "No modern profanity. However, 'The Horse and His Boy' and 'The Last Battle' contain portrayals of the Calormenes that many modern scholars and educators identify as 'orientalist' or racially insensitive stereotypes. Language such as 'loathsome' or 'barbarous' is used to describe these characters, who are modeled after Middle Eastern cultures, which can be seen as a form of cultural bias."
+            }
+        },
+        {
+            "book_title": "The Cricket in Times Square\u00a0by George Selden",
+            "sexandnudity": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "violenceandgore": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "profanity": {
+                "score": 1,
+                "subcategories_detected": [
+                    "Cultural Stereotypes",
+                    "Mild Insults"
+                ],
+                "evidence": "No traditional profanity is used. However, the book contains 1960s-era cultural portrayals that some modern evaluators flag. Specifically, the character Sai Fong speaks in a 'broken English' dialect (e.g., 'You wantee cricket?') which is viewed today as a stereotypical caricature rather than realistic dialogue."
+            }
+        },
+        {
+            "book_title": "The Day the Crayons Quit\u00a0by Drew Daywalt",
+            "sexandnudity": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "violenceandgore": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "profanity": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "The book contains no profanity or vulgar language. The tone is occasionally 'snarky' or disgruntled, but remains entirely respectful and appropriate for its target age group of 3\u20137 years old."
+            }
+        },
+        {
+            "book_title": "The Divergent series by Veronica Roth",
+            "sexandnudity": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "violenceandgore": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "profanity": {
+                "score": 4,
+                "subcategories_detected": [
+                    "Moderate Profanity",
+                    "Slang"
+                ],
+                "evidence": "The language is consistent with the Young Adult (14+) demographic. Profanity such as 'damn,' 'hell,' 'bitch,' and 'shit' appears with some frequency, particularly during high-stress combat or emotional confrontations. It is significantly more 'adult' in tone than 'The Hunger Games.'"
+            }
+        },
+        {
+            "book_title": "The Fault in Our Stars by John Green",
+            "sexandnudity": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "violenceandgore": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "profanity": {
+                "score": 6,
+                "subcategories_detected": [
+                    "Strong Profanity",
+                    "Teenage Slang"
+                ],
+                "evidence": "The book contains several uses of the 'f-word' and other strong profanity (shit, hell, damn). The language is used to reflect the characters' intense frustration, anger, and the authentic way many modern teenagers communicate, especially when dealing with terminal illness."
+            }
+        },
+        {
+            "book_title": "The Folk of the Air (The Cruel Prince) trilogy by Holly Black",
+            "sexandnudity": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "violenceandgore": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "profanity": {
+                "score": 4,
+                "subcategories_detected": [
+                    "Moderate Profanity",
+                    "Social Insults"
+                ],
+                "evidence": "The series contains moderate profanity (words like 'hell,' 'damn,' 'shit,' and the 'f-word' appears sparingly). However, the most biting 'language' comes from the sophisticated, elegant insults of the Fae. Because Faeries cannot tell a literal lie, the dialogue is a study in linguistic trickery and technical truths used to insult or deceive."
+            }
+        },
+        {
+            "book_title": "The Giver quartet by Lois Lowry",
+            "sexandnudity": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "violenceandgore": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "profanity": {
+                "score": 1,
+                "subcategories_detected": [
+                    "Precision of Language",
+                    "Mild Insults"
+                ],
+                "evidence": "Profanity is virtually non-existent because the society in 'The Giver' demands 'precision of language.' Using an incorrect or coarse word is a social transgression. In the later books, the language remains very clean, fitting a middle-grade/early YA audience."
+            }
+        },
+        {
+            "book_title": "The Golden Compass \u2013 Philip Pullman",
+            "sexandnudity": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "violenceandgore": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "profanity": {
+                "score": 1,
+                "subcategories_detected": [
+                    "None"
+                ],
+                "evidence": "The language is highly sophisticated and clean. Pullman uses a formal, literary tone that avoids modern profanity."
+            }
+        },
+        {
+            "book_title": "The Graveyard Book \u2013 Neil Gaiman",
+            "sexandnudity": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "violenceandgore": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "profanity": {
+                "score": 1,
+                "subcategories_detected": [
+                    "None"
+                ],
+                "evidence": "The language is sophisticated and clean. Gaiman uses a formal, slightly archaic tone for the ghost characters which elevates the prose."
+            }
+        },
+        {
+            "book_title": "The Hate U Give by Angie Thomas",
+            "sexandnudity": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "violenceandgore": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "profanity": {
+                "score": 8,
+                "subcategories_detected": [
+                    "Strong Profanity",
+                    "Racial Slurs"
+                ],
+                "evidence": "The book uses 'F-words,' 'S-words,' and other strong profanity frequently to maintain the authenticity of the setting and the raw emotion of the characters. This is the primary reason the book is frequently challenged in schools."
+            }
+        },
+        {
+            "book_title": "The Hobbit \u2013 J.R.R. Tolkien",
+            "sexandnudity": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "violenceandgore": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "profanity": {
+                "score": 1,
+                "subcategories_detected": [
+                    "Mild Archaic Insults"
+                ],
+                "evidence": "Extremely clean. Language is formal and Victorian in sensibility, using mild terms like 'dratted' or 'fool.'"
+            }
+        },
+        {
+            "book_title": "The House in the Cerulean Sea \u2013 T.J. Klune",
+            "sexandnudity": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "violenceandgore": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "profanity": {
+                "score": 2,
+                "subcategories_detected": [
+                    "Mild Expletives"
+                ],
+                "evidence": "Contains some mild language such as 'hell' and 'damn,' often used by the children in a humorous or rebellious context. The dialogue remains gentle and approachable."
+            }
+        },
+        {
+            "book_title": "The Hunger Games trilogy by Suzanne Collins",
+            "sexandnudity": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "violenceandgore": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "profanity": {
+                "score": 3,
+                "subcategories_detected": [
+                    "Mild to Moderate Profanity",
+                    "Insults",
+                    "Political Slurs"
+                ],
+                "evidence": "The language is more mature than middle-grade series. Occasional use of 'damn' and 'hell.' The focus is more on the 'language of oppression'\u2014terms like 'tribute,' 'Avox' (servants who had their tongues cut out), and 'Peacekeepers' (the irony of the name for a violent police force)."
+            }
+        },
+        {
+            "book_title": "The Land of Stories\u00a0by Chris Colfer",
+            "sexandnudity": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "violenceandgore": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "profanity": {
+                "score": 1,
+                "subcategories_detected": [
+                    "Mild Insults",
+                    "Modern Slang"
+                ],
+                "evidence": "There is no traditional profanity. Conner, who serves as the comic relief, often uses modern sarcastic humor and mild insults like 'stupid,' 'jerk,' or 'dumb.' The language is contemporary and relatable for a middle-grade audience without crossing into vulgarity."
+            }
+        },
+        {
+            "book_title": "The Last Olympian \u2013 Rick Riordan",
+            "sexandnudity": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "violenceandgore": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "profanity": {
+                "score": 2,
+                "subcategories_detected": [
+                    "Mild Insults"
+                ],
+                "evidence": "Consistent with previous entries. Sarcastic wit and mild insults like 'jerk' or 'punk' are used, maintaining a PG rating."
+            }
+        },
+        {
+            "book_title": "The Lightning Thief \u2013 Rick Riordan",
+            "sexandnudity": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "violenceandgore": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "profanity": {
+                "score": 2,
+                "subcategories_detected": [
+                    "Mild Insults",
+                    "Slang"
+                ],
+                "evidence": "Language is very clean. It includes common schoolyard insults like 'loser' or 'jerk.' Most of the 'edgy' language comes from the sarcastic tone of the narrator rather than specific curse words."
+            }
+        },
+        {
+            "book_title": "The Lunar Chronicles by Marissa Meyer",
+            "sexandnudity": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "violenceandgore": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "profanity": {
+                "score": 2,
+                "subcategories_detected": [
+                    "Mild Profanity",
+                    "Social Slurs"
+                ],
+                "evidence": "Profanity is mild, including words like 'hell' and 'damn.' The more impactful 'language' involves the derogatory treatment of cyborgs, who are treated as second-class citizens or property, and 'Lunars,' who are feared and hated on Earth. This 'us vs. them' vocabulary is central to the series' critique of discrimination."
+            }
+        },
+        {
+            "book_title": "The Maze Runner series by James Dashner",
+            "sexandnudity": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "violenceandgore": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "profanity": {
+                "score": 2,
+                "subcategories_detected": [
+                    "In-Universe Euphemisms",
+                    "Mild Insults"
+                ],
+                "evidence": "Dashner uses a unique system of 'Glader slang' to avoid traditional profanity while maintaining a gritty tone. Words like 'klunk' (poop), 'shuck-face,' and 'slinthead' are used constantly. While this keeps the 'score' low for traditional profanity, the intent behind the words is clearly to mimic the rough language of a group of teenagers in a high-stress environment."
+            }
+        },
+        {
+            "book_title": "The Mysterious Benedict Society\u00a0by Trenton Lee Stewart",
+            "sexandnudity": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "violenceandgore": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "profanity": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "The book is exceptionally clean. Mr. Benedict and the children use highly sophisticated, precise language. Disagreements are handled through debate rather than insults, and there is no modern profanity or vulgarity."
+            }
+        },
+        {
+            "book_title": "The Notebook of Doom\u00a0series by Troy Cummings",
+            "sexandnudity": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "violenceandgore": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "profanity": {
+                "score": 1,
+                "subcategories_detected": [
+                    "Mild Name-calling"
+                ],
+                "evidence": "Language is very mild. The most 'offensive' terms are limited to 'dumb,' 'weirdo,' or 'creepy,' which are used to describe the monsters or the strange events in Stermont."
+            }
+        },
+        {
+            "book_title": "The One and Only Ivan by Katherine Applegate",
+            "sexandnudity": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "violenceandgore": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "profanity": {
+                "score": 1,
+                "subcategories_detected": [
+                    "Mild Insults"
+                ],
+                "evidence": "There is no traditional profanity. The 'language' concerns are limited to the way humans occasionally speak dismissively of the animals, calling them 'it' or 'beast,' which Ivan notes with quiet dignity."
+            }
+        },
+        {
+            "book_title": "The Outsiders \u2013 S.E. Hinton",
+            "sexandnudity": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "violenceandgore": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "profanity": {
+                "score": 3,
+                "subcategories_detected": [
+                    "Period-Typical Slang",
+                    "Mild Expletives"
+                ],
+                "evidence": "The language reflects the rough environment of the characters. It includes words like 'hell,' 'damn,' and 'bastard,' as well as 1960s-era slang. However, it is mild compared to modern YA literature."
+            }
+        },
+        {
+            "book_title": "The Poet X by Elizabeth Acevedo",
+            "sexandnudity": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "violenceandgore": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "profanity": {
+                "score": 5,
+                "subcategories_detected": [
+                    "Strong Profanity",
+                    "Religious Defiance"
+                ],
+                "evidence": "The book uses 'f-words,' 'sh-words,' and other profanity. However, much of the 'language' that concerns some readers is Xiomara's questioning of her Catholic faith, which is expressed in raw, sometimes abrasive terms as she struggles with her mother's dogmatic views."
+            }
+        },
+        {
+            "book_title": "The Raven Cycle \u2013 Maggie Stiefvater",
+            "sexandnudity": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "violenceandgore": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "profanity": {
+                "score": 6,
+                "subcategories_detected": [
+                    "Moderate to Strong Profanity"
+                ],
+                "evidence": "The characters use realistic teenage language, including frequent 'f-words' and 'sh-words,' particularly the character Ronan Lynch."
+            }
+        },
+        {
+            "book_title": "The Sea of Monsters \u2013 Rick Riordan",
+            "sexandnudity": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "violenceandgore": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "profanity": {
+                "score": 2,
+                "subcategories_detected": [
+                    "Mild Insults"
+                ],
+                "evidence": "Very clean. Language includes 'jerk,' 'shut up,' and 'moron.' Sarcasm is the primary linguistic tool for tension."
+            }
+        },
+        {
+            "book_title": "The Selection series by Kiera Cass",
+            "sexandnudity": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "violenceandgore": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "profanity": {
+                "score": 2,
+                "subcategories_detected": [
+                    "Mild Profanity",
+                    "Social Slurs"
+                ],
+                "evidence": "Profanity is relatively mild and infrequent, with occasional uses of 'hell,' 'damn,' and 'shut up.' The most significant 'language' involve the Caste system (Ones through Eights), where calling someone a 'Six' or 'Seven' is used as a classist slur to denote inferiority."
+            }
+        },
+        {
+            "book_title": "The Story of Ferdinand",
+            "sexandnudity": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "violenceandgore": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "profanity": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "The narrative uses simple, clear, and wholesome language to tell Ferdinand's story. There is no profanity, obscenities, or coarse language."
+            }
+        },
+        {
+            "book_title": "The Tale of Despereaux by Kate DiCamillo",
+            "sexandnudity": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "violenceandgore": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "profanity": {
+                "score": 1,
+                "subcategories_detected": [
+                    "Mild Insults"
+                ],
+                "evidence": "No modern profanity. The language is elegant and elevated. However, characters like Miggery Sow are treated with verbal cruelty, being called 'worthless' or 'stupid' by those who 'own' her, which highlights the book's themes of social injustice."
+            }
+        },
+        {
+            "book_title": "The Titan\u2019s Curse \u2013 Rick Riordan",
+            "sexandnudity": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "violenceandgore": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "profanity": {
+                "score": 2,
+                "subcategories_detected": [
+                    "Mild Insults"
+                ],
+                "evidence": "Remains consistent with previous books. Language includes 'jerk,' 'shut up,' and 'stupid.' The sarcasm is sharp but stays within middle-grade boundaries."
+            }
+        },
+        {
+            "book_title": "They Both Die at the End by Adam Silvera",
+            "sexandnudity": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "violenceandgore": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "profanity": {
+                "score": 6,
+                "subcategories_detected": [
+                    "Strong Profanity",
+                    "Teenage Slang"
+                ],
+                "evidence": "The book contains frequent use of strong language consistent with teenage characters in high-stress situations. This includes the 'f-word,' 'shit,' and other common profanities. The language feels authentic to the urban setting and the raw desperation of the characters' 'Last Friend' search."
+            }
+        },
+        {
+            "book_title": "To All the Boys I've Loved Before trilogy by Jenny Han",
+            "sexandnudity": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "violenceandgore": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "profanity": {
+                "score": 3,
+                "subcategories_detected": [
+                    "Moderate Profanity",
+                    "Social Slurs"
+                ],
+                "evidence": "The series contains moderate profanity consistent with a high school setting. Words like 'shit,' 'ass,' 'hell,' and 'damn' are used. There is also the use of 'OMG' and other informal teenage slang. The language is notably more frequent in the film adaptations than in the books, but both fall within the standard YA range."
+            }
+        },
+        {
+            "book_title": "To Kill a Mockingbird",
+            "sexandnudity": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "violenceandgore": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "profanity": {
+                "score": 8,
+                "subcategories_detected": [
+                    "Severe racial slurs",
+                    "Offensive name-calling",
+                    "General mild profanity"
+                ],
+                "evidence": "The text frequently uses the highly offensive and historically accurate racial slur ('N-word') to establish the deep prejudice and racist attitudes of many characters and the time period. Other crude insults and mild cursing are also present."
+            }
+        },
+        {
+            "book_title": "Twilight saga by Stephenie Meyer",
+            "sexandnudity": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "violenceandgore": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "profanity": {
+                "score": 2,
+                "subcategories_detected": [
+                    "Mild Profanity",
+                    "Insults"
+                ],
+                "evidence": "The language is relatively clean for the Young Adult genre. There are occasional uses of 'hell' and 'damn,' along with typical high-school-level insults. The tone remains polite and somewhat formal, reflecting Edward\u2019s 'old-fashioned' upbringing from the early 1900s."
+            }
+        },
+        {
+            "book_title": "Warriors (cats) series by Erin Hunter",
+            "sexandnudity": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "violenceandgore": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "profanity": {
+                "score": 1,
+                "subcategories_detected": [
+                    "In-Universe Slang",
+                    "Mild Insults"
+                ],
+                "evidence": "There is no real-world profanity. Instead, the author uses cat-centric 'swear words' or insults such as 'mouse-brain,' 'fox-dung,' or 'crow-food.' These serve as world-building tools to show frustration without using language that would trigger a higher parental advisory rating."
+            }
+        },
+        {
+            "book_title": "washington and the hope of peace",
+            "sexandnudity": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "violenceandgore": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "profanity": {
+                "score": 1,
+                "subcategories_detected": [
+                    "Mild exclamatory profanity/cursing"
+                ],
+                "evidence": "Damn the dust! Damn the Government and the rats! Damn the selectors!"
+            }
+        },
+        {
+            "book_title": "We Were Liars by E. Lockhart",
+            "sexandnudity": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "violenceandgore": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "profanity": {
+                "score": 4,
+                "subcategories_detected": [
+                    "Moderate Profanity",
+                    "Social Insults"
+                ],
+                "evidence": "Uses moderate profanity such as 'shit,' 'hell,' and 'damn.' The language is often used to emphasize the frustration of the teenagers against the rigid, controlled expectations of their elite family."
+            }
+        },
+        {
+            "book_title": "Where the Sidewalk Ends by Shel Silverstein",
+            "sexandnudity": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "violenceandgore": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "profanity": {
+                "score": 1,
+                "subcategories_detected": [
+                    "Mild Insults",
+                    "Subversive Language"
+                ],
+                "evidence": "There is no traditional 'strong' profanity. However, it includes words that some conservative curricula flagged in the past as 'disrespectful' or 'subversive.' The opening poem 'Invitation' addresses the reader as: 'If you are a dreamer, come in. If you are a dreamer, a wisher, a liar...'. The poem 'Sick' depicts a child detailing various fake illnesses to skip school, which has been cited as encouraging dishonesty."
+            }
+        },
+        {
+            "book_title": "Where the Wild Things Are",
+            "sexandnudity": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "violenceandgore": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "profanity": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "The language is simple, expressive, and focused on imagination. The strongest expressions of defiance are Max's statement, 'I'll eat you up!,' which is not considered profanity."
+            }
+        },
+        {
+            "book_title": "Wings of Fire series by Tui T. Sutherland",
+            "sexandnudity": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "violenceandgore": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "profanity": {
+                "score": 2,
+                "subcategories_detected": [
+                    "In-Universe Euphemisms",
+                    "Mild Insults"
+                ],
+                "evidence": "Traditional profanity is absent. Like the 'Warriors' series, it uses 'dragon-themed' substitutes such as 'Three moons!' (as an exclamation) or 'squid-brain.' Characters use mild insults like 'stupid,' 'ugly,' or 'useless,' often reflecting the verbal abuse the protagonists suffer from their initial guardians."
+            }
+        },
+        {
+            "book_title": "Wonder by R.J. Palacio",
+            "sexandnudity": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "violenceandgore": {
+                "score": 0,
+                "subcategories_detected": [],
+                "evidence": "No data available in source file."
+            },
+            "profanity": {
+                "score": 2,
+                "subcategories_detected": [
+                    "Mild Profanity",
+                    "Name-calling",
+                    "Ableist Slurs"
+                ],
+                "evidence": "The book contains mild language such as 'shut up,' 'idiot,' and 'stinking.' More impactful is the cruel name-calling directed at Auggie, such as being called a 'freak' or 'Gollum,' and the 'Plague' game where children avoid touching him. These are used to demonstrate the harmful impact of social cruelty."
+            }
+        }
+    ]
+}

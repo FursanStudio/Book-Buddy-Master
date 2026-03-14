@@ -1,0 +1,45 @@
+Prompt:
+Create a complete, production-ready Streamlit web application for a Book Annotation System using only local JSON files for storage.
+Core Requirements:
+Authentication
+Simple login using email only (email acts as annotator identity).
+Use st.session_state for session management.
+Data Source
+Read book data from a JSON file (sample.json) with fields like:
+book_title
+sexandnudity, violenceandgore, profanity
+each containing score and evidence
+Create and maintain an annotations.json file locally to store user labels.
+Landing Page UI
+A search bar with auto-suggestions to search books by title.
+Selecting a book displays details below in a clean, eye-friendly UI suitable for long usage.
+Use dark-mode-safe styling (custom CSS) so text is always visible.
+Book View
+Display book title prominently.
+Show content categories (Sex & Nudity, Violence & Gore, Profanity) in card-style layout with:
+
+Score
+Evidence text
+Annotation System
+“Add Label” control at the top of annotations section.
+Opens a form (expander or modal) to:
+Enter label name
+Assign a numeric score
+Add a short comment
+Save annotations to annotations.json under:
+book title → user email → list of labels
+After saving, force UI refresh using st.rerun().
+Admin / Review View
+When viewing a book, show all labels added by all annotators, grouped by user email.
+Navigation
+“Previous” and “Next” buttons to move left/right through book list.
+Technical Constraints
+Use Streamlit latest APIs (no deprecated functions).
+Use st.rerun() instead of st.experimental_rerun().
+Entire app should run from a single app.py file.
+Output Expectations:
+Provide fully working Streamlit code.
+Include dark-mode compatible CSS styling.
+Ensure labels save correctly and appear immediately.
+Code must be clean, readable, and ready to run with:
+streamlit run app.py
