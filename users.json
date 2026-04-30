@@ -1,6 +1,20 @@
 {
-    "sajalsavaiba41@gmail.com": {
-        "username": "Savaiba Sajal",
-        "password": "45cd11dc3e37f9a4f73c5f72b2d8c2ecc12ea1d76f81c672133928d1210e442b"
-    }
+  "sajalsavaiba41@gmail.com": {
+    "username": "Savaiba Sajal",
+    "password": "45cd11dc3e37f9a4f73c5f72b2d8c2ecc12ea1d76f81c672133928d1210e442b"
+  },
+  "savaibasajal091@gmail.com": {
+    "username": "Savaiba Sajal",
+    "password": "20dfbcaddb50a4ea29d8f933d80ad3965e2f7a1bd638e8248ac963a81fbd868e",
+    "joined": "2026-03-28T12:19:47.196932",
+    "security_question": "What was the name of your first pet?",
+    "security_answer": "b37474a4e3b7d169af6e3d27ebd2a67ae4961e0a9cceac7d68385797d772bc55"
+  },
+  "testuser@bookbuddy.com": {
+  "username": "Test User",
+  "password": "0d93627005e290770b172d34f7caa4087fcbef68d2e019f5c392e043a6c241c9",
+  "joined": "2026-04-30T10:15:38.044302",
+  "security_question": "What was the name of your first pet?",
+  "security_answer": "80704652b54a888f337bb1e50a73cdf0867a0e1ded7782dca0496f56f1cd1046"
+}
 }
